@@ -27,4 +27,4 @@ Local
 
 **Usage:**
 
-Integrating the Scientific Calculator plugin into your Moodle instance is a straightforward process. Consult the provided documentation for installation and configuration instructions. Once set up, the calculator becomes an accessible and integral part of the Moodle learning environment.
+Integrating the Scientific Calculator plugin into your Moodle instance is a straightforward process. To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). Once set up, the calculator becomes an accessible and integral part of the Moodle learning environment.
